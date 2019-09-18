@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\larsp\\Desktop\\Thomas More 3IMD\\.net core\\les 1\\age\\age.csproj": {}
+    "C:\\Users\\larsp\\OneDrive\\Bureaublad\\Thomas More 3IMD\\Sem 1\\ASP-.net\\les 1\\age\\age.csproj": {}
   },
   "projects": {
-    "C:\\Users\\larsp\\Desktop\\Thomas More 3IMD\\.net core\\les 1\\age\\age.csproj": {
+    "C:\\Users\\larsp\\OneDrive\\Bureaublad\\Thomas More 3IMD\\Sem 1\\ASP-.net\\les 1\\age\\age.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\larsp\\Desktop\\Thomas More 3IMD\\.net core\\les 1\\age\\age.csproj",
+        "projectUniqueName": "C:\\Users\\larsp\\OneDrive\\Bureaublad\\Thomas More 3IMD\\Sem 1\\ASP-.net\\les 1\\age\\age.csproj",
         "projectName": "age",
-        "projectPath": "C:\\Users\\larsp\\Desktop\\Thomas More 3IMD\\.net core\\les 1\\age\\age.csproj",
+        "projectPath": "C:\\Users\\larsp\\OneDrive\\Bureaublad\\Thomas More 3IMD\\Sem 1\\ASP-.net\\les 1\\age\\age.csproj",
         "packagesPath": "C:\\Users\\larsp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\larsp\\Desktop\\Thomas More 3IMD\\.net core\\les 1\\age\\obj\\",
+        "outputPath": "C:\\Users\\larsp\\OneDrive\\Bureaublad\\Thomas More 3IMD\\Sem 1\\ASP-.net\\les 1\\age\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
