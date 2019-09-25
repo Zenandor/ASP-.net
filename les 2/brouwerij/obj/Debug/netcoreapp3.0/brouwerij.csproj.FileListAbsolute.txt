@@ -1,0 +1,11 @@
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\obj\Debug\netcoreapp3.0\brouwerij.csprojAssemblyReference.cache
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\obj\Debug\netcoreapp3.0\brouwerij.AssemblyInfoInputs.cache
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\obj\Debug\netcoreapp3.0\brouwerij.AssemblyInfo.cs
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\bin\Debug\netcoreapp3.0\brouwerij.exe
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\bin\Debug\netcoreapp3.0\brouwerij.deps.json
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\bin\Debug\netcoreapp3.0\brouwerij.runtimeconfig.json
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\bin\Debug\netcoreapp3.0\brouwerij.runtimeconfig.dev.json
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\bin\Debug\netcoreapp3.0\brouwerij.dll
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\bin\Debug\netcoreapp3.0\brouwerij.pdb
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\obj\Debug\netcoreapp3.0\brouwerij.dll
+C:\Users\Bram Ravijts\Desktop\school\jaar 3\Semester 1\ASP-.net\les 2\brouwerij\obj\Debug\netcoreapp3.0\brouwerij.pdb
